@@ -657,9 +657,9 @@
 		<key>Debug</key>
 		<false/>
 		<key>DefaultLoader</key>
-		<string>BOOTX64.efi</string>
+		<string>bootmgfw.efi</string>
 		<key>DefaultVolume</key>
-		<string>LastBootedVolume</string>
+		<string>469BDBC0-B011-11E9-93DE-806E6F6E6963</string>
 		<key>Legacy</key>
 		<string>PBR</string>
 		<key>Secure</key>
