@@ -38,7 +38,7 @@
 					<key>Comment</key>
 					<string>H_EC -&gt; EC__</string>
 					<key>Disabled</key>
-					<true/>
+					<false/>
 					<key>Find</key>
 					<data>SF9FQw==</data>
 					<key>Replace</key>
@@ -604,6 +604,16 @@
 					<key>Replace</key>
 					<data>SERFRg==</data>
 				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>ECDV-&gt;EC</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>RUNEVg==</data>
+					<key>Replace</key>
+					<data>RUNfXw==</data>
+				</dict>
 			</array>
 			<key>ReuseFFFF</key>
 			<false/>
@@ -885,6 +895,46 @@
 				<key>Replace</key>
 				<data>vgYAAABdw5CQkJA=</data>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>xcpm_bootstrap © Pike RAlpha By N.Mano 10.15.X</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>jUPEPCJ3Ig==</data>
+				<key>Replace</key>
+				<data>jUPBPCJ3Ig==</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>xcpm_core_scope_msrs © Pike R. Alpha By N.Mano</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>MdLotF39/w==</data>
+				<key>Replace</key>
+				<data>MdKQkJCQkA==</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>xcpm_pkg_scope_msrs (c) Pike R. Alpha By N.Mano</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>MdLoSP3//w==</data>
+				<key>Replace</key>
+				<data>MdKQkJCQkA==</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>_xcpm_SMT_scope_msrs #2 (c) Pike R. Alpha  By N.Mano</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>MdLoJf3//w==</data>
+				<key>Replace</key>
+				<data>MdKQkJCQkA==</data>
+			</dict>
 		</array>
 		<key>KernelXCPM</key>
 		<true/>
@@ -1116,15 +1166,17 @@
 	<key>SMBIOS</key>
 	<dict>
 		<key>BiosReleaseDate</key>
-		<string>12/08/2017</string>
+		<string>01/05/2020</string>
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
-		<string>IMP11.88Z.0064.B30.1712081714</string>
+		<string>IMP11.88Z.F000.B00.2001052056</string>
 		<key>Board-ID</key>
 		<string>Mac-7BA5B2D9E42DDD94</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
+		<key>BoardSerialNumber</key>
+		<string>C02015902QXJG36AD</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -1135,10 +1187,12 @@
 		<string>Apple Inc.</string>
 		<key>ChassisType</key>
 		<string>0x09</string>
+		<key>EfiVersion</key>
+		<string>1037.80.41.0.0</string>
 		<key>Family</key>
 		<string>iMac Pro</string>
 		<key>FirmwareFeatures</key>
-		<string>0xFD8FF53E</string>
+		<string>0xFD8FF53F</string>
 		<key>FirmwareFeaturesMask</key>
 		<string>0xFF9FFF3F</string>
 		<key>LocationInChassis</key>
@@ -1148,11 +1202,13 @@
 		<key>Mobile</key>
 		<false/>
 		<key>PlatformFeature</key>
-		<string>0xFFFF</string>
+		<string>0x00</string>
 		<key>ProductName</key>
 		<string>iMacPro1,1</string>
-		<key>Trust</key>
-		<false/>
+		<key>SerialNumber</key>
+		<string>C02CK5YGHX87</string>
+		<key>SmUUID</key>
+		<string>367FD8B0-48BF-4BF1-AE81-F51A75A8EC50</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
