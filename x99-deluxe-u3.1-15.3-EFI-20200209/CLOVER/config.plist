@@ -677,6 +677,8 @@
 		<false/>
 		<key>C6</key>
 		<false/>
+		<key>HWPEnable</key>
+		<true/>
 		<key>Type</key>
 		<string>0x0F01</string>
 		<key>UseARTFrequency</key>
