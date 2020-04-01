@@ -1035,6 +1035,54 @@
 				<key>Replace</key>
 				<data>MdKQkJCQkA==</data>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>xcpm_core_scope_msrs © Pike R. Alpha Modify 10.15.4 N.Mano</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>MdLoV9L//w==</data>
+				<key>MatchOS</key>
+				<string>10.15.x</string>
+				<key>Replace</key>
+				<data>MdKQkJCQkA==</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>xcpm_core_scope_msrs © Pike R. AlphaModify 10.15.4 N.Mano</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>MdLo6fn+/w==</data>
+				<key>MatchOS</key>
+				<string>10.15.x</string>
+				<key>Replace</key>
+				<data>MdKQkJCQkA==</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>xcpm_pkg_scope_msrs (c) Pike R. Alpha Modify 10.15.4 N.Mano</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>MdLozlXn/w==</data>
+				<key>MatchOS</key>
+				<string>10.15.x</string>
+				<key>Replace</key>
+				<data>MdKQkJCQkA==</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>_xcpm_SMT_scope_msrs #2 (c) Pike R. Alpha Modify N.Mano 10.15.4</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>MdLoPmH//w==</data>
+				<key>MatchOS</key>
+				<string>10.15.x</string>
+				<key>Replace</key>
+				<data>MdKQkJCQkA==</data>
+			</dict>
 		</array>
 		<key>KernelXCPM</key>
 		<true/>
