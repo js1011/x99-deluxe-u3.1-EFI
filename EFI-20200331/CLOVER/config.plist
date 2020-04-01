@@ -1042,8 +1042,6 @@
 				<false/>
 				<key>Find</key>
 				<data>MdLoV9L//w==</data>
-				<key>MatchOS</key>
-				<string>10.15.x</string>
 				<key>Replace</key>
 				<data>MdKQkJCQkA==</data>
 			</dict>
@@ -1054,8 +1052,6 @@
 				<false/>
 				<key>Find</key>
 				<data>MdLo6fn+/w==</data>
-				<key>MatchOS</key>
-				<string>10.15.x</string>
 				<key>Replace</key>
 				<data>MdKQkJCQkA==</data>
 			</dict>
@@ -1066,8 +1062,6 @@
 				<false/>
 				<key>Find</key>
 				<data>MdLozlXn/w==</data>
-				<key>MatchOS</key>
-				<string>10.15.x</string>
 				<key>Replace</key>
 				<data>MdKQkJCQkA==</data>
 			</dict>
@@ -1078,10 +1072,104 @@
 				<false/>
 				<key>Find</key>
 				<data>MdLoPmH//w==</data>
-				<key>MatchOS</key>
-				<string>10.15.x</string>
 				<key>Replace</key>
 				<data>MdKQkJCQkA==</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>xcpm_core_scope_msrs © Pike R. AlphaModify 10.15.4 N.Mano</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>MdLoPpr//w==</data>
+				<key>Replace</key>
+				<data>MdKQkJCQkA==</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>xcpm_pkg_scope_msrs (c) Pike R. Alpha Modify 10.15.4 N.Mano</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>MdLozoj//w==</data>
+				<key>Replace</key>
+				<data>MdKQkJCQkA==</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>C6/C7_If=E2-Enabled=0x7E000403 Modify BY N.Mano</string>
+				<key>Disabled</key>
+				<true/>
+				<key>Find</key>
+				<data>4gAAAEwAAAAAAAAAAAAAAA8EAAAAAAAABQAAHg==</data>
+				<key>Replace</key>
+				<data>4gAAAEwAAAAAAAAAAAAAAA8EAAAAAAAAAwQAfg==</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>BY N.Mano/Pike R. Alpha Sierra xcpm MSR Patch 4 / xcpm support Pike R. Alpha</string>
+				<key>Disabled</key>
+				<true/>
+				<key>Find</key>
+				<data>QgYAANwzAAAAAAAAAAAAAB8AAAAAAAAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</data>
+				<key>Replace</key>
+				<data>QgYAAAAAAAAAAAAAAAAAAB8AAAAAAAAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>0x82D390/MSR_PP0_POLICY 0x63a Modify N.Mano</string>
+				<key>Disabled</key>
+				<true/>
+				<key>Find</key>
+				<data>OgYAANwzAAAAAAAAAAAAAB8=</data>
+				<key>Replace</key>
+				<data>OgYAAAAAAAAAAAAAAAAAAAA=</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Disable panic kext logging on   @PMheart/Pike R. Alpha</string>
+				<key>Disabled</key>
+				<true/>
+				<key>Find</key>
+				<data>igKEwHRH</data>
+				<key>Replace</key>
+				<data>igKEwOtH</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>xcpm_pkg_scope_msrs (c)Pike R. Alpha (Modify lucke TEST) 10.15.4 beta1</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>MdLoOP3//w==</data>
+				<key>Replace</key>
+				<data>MdKQkJCQkA==</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>xcpm_bootstrap_ © Pike R. Alpha 10.15.4 B6@realFlow</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>gMPEgPtCDw==</data>
+				<key>Replace</key>
+				<data>gMPBgPtCDw==</data>
+			</dict>
+			<dict>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>vgYAAAAx0ugC/f//</data>
+				<key>Replace</key>
+				<data>vgYAAAAx0pCQkJCQ</data>
+			</dict>
+			<dict>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>vgYAAAAx0ugS/f//</data>
+				<key>Replace</key>
+				<data>vgYAAAAx0pCQkJCQ</data>
 			</dict>
 		</array>
 		<key>KernelXCPM</key>
